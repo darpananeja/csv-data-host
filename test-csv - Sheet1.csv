@@ -1,7 +1,29 @@
-Sárgarozsda,
-Vörös rozsda,
-Pirenofórás levélfoltosság,
-Szeptóriás levél és pelyvafoltosság,
-Gabona lisztharmat,
-Kalászfuzáriózis,
-Rinhospóriumos levélfoltosság,
+New Flag,Destination,Produkt,Optimum AQUAmax,Reifezahl,Korntyp,Nutzung Silomais/Biogasmais,Nutzung Körnermais,Beizvariante LumiGEN Premium *,Beizvariante LumiGEN  Insektizid **,BIO
+No,,P7737,x,250,Z,,x,x,,
+No,,P8255,,ca 250,Zh,x,x,x,x,bio
+No,,P7818,x,260,Z,x,x,x,x,bio
+No,,P8754,x,270,Z,x,x,x,x,
+No,,P83462***** NEU,,270,Z,x,x,x,x,
+No,,P8573,,280,Z,x,x,x,x,,
+No,,P8317,,ca 280,Z,x,x,x,x,
+No,,P8666,,ca 290,Z,x,x,x,x,bio
+No,,P8436,x,310,Z,,x,x,x,bio
+No,,P8834,x,330,Z,x,x,x,x,,
+No,,P8902,,340,Z,x,x,x,x,bio
+No,,P8834WX waxy,x,340,Z,,x,x,x,,
+No,,P89699***** NEU,x,350,Z,x,x,x,x,
+No,,P92440,x,350,Z,x,x,x,x,
+No,,P9074E waxy,,370,Z,,x,,,bio
+No,,P9610,x,370,Z,x,x,x,x,bio
+No,,P9279,,ca 370,Z,x,x,x,x,
+No,,P95287***** NEU,x,380,Z,x,x,x,x,
+No,,P9241,x,380,Z,x,x,,,bio
+No,,P9967,,ca 380,Z,x,x,x,x,
+No,,P9639,,400,Z,x,x,x,x,
+No,,P9718E waxy,,ca 400,Z,,x,,x,
+No,,P9889WX waxy,x,410,Z,,x,,x,
+No,,P00214,,420,Zh,x,x,x,x,
+No,,P9944,x,430,Z,x,x,x,x,bio
+No,,P0725,x,ca 430,Zh,x,x,x,x,bio
+No,,P0710,x,ca 440,Z,x,x,x,x,
+
